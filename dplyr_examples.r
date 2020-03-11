@@ -1,6 +1,7 @@
 ###################################################################################################
 ## PROGRAM: dplyr_examples.r
 ## PURPOSE: To provide a demo of using the dplyr data manipution functions on the iris dataset
+## REMOTE REPOSITORY: https://bitbucket.org/djjansz1/dplyr_examples
 ## Iris Data: https://warwick.ac.uk/fac/sci/moac/people/students/peter_cock/r/iris_plots
 ## Git Crash Course: https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1024s
 ## SAS and R Book: https://labstatunisba.files.wordpress.com/2015/02/sas-and-r_-data-management-statistical-analysis-and-graphics-second-edition-chapman-and-hall_crc-2014.pdf
